@@ -1,0 +1,6 @@
+G:\CodeWars\CodeWars\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+G:\CodeWars\CodeWars\Tasks\bin\Debug\Tasks.exe
+G:\CodeWars\CodeWars\Tasks\bin\Debug\Tasks.pdb
+G:\CodeWars\CodeWars\Tasks\bin\Debug\NUnit.Framework.dll
+G:\CodeWars\CodeWars\Tasks\obj\Debug\Tasks.exe
+G:\CodeWars\CodeWars\Tasks\obj\Debug\Tasks.pdb
