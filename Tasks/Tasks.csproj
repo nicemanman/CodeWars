@@ -50,6 +50,8 @@
   <ItemGroup>
     <Compile Include="Are they same\AreTheySame.cs" />
     <Compile Include="Are they same\AreTheySameTests.cs" />
+    <Compile Include="Bit Counting\CountBits.cs" />
+    <Compile Include="Bit Counting\Test1.cs" />
     <Compile Include="Custom rounding rule\CustomMath.cs" />
     <Compile Include="Custom rounding rule\RoundTest.cs" />
     <Compile Include="GameBalls\Game.cs" />
@@ -60,6 +62,7 @@
     <Folder Include="GameBalls" />
     <Folder Include="Custom rounding rule" />
     <Folder Include="Are they same" />
+    <Folder Include="Bit Counting" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Are they same\Task.txt" />
