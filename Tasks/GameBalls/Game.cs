@@ -23,5 +23,5 @@ public class Game
             return (n1 < 0 ? "Second" : "First");
         }
         
-        public static void Main(){}
+       
     }

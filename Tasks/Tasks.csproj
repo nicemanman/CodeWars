@@ -48,6 +48,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Add two numbers\Solution.cs" />
     <Compile Include="Are they same\AreTheySame.cs" />
     <Compile Include="Are they same\AreTheySameTests.cs" />
     <Compile Include="Bit Counting\CountBits.cs" />
@@ -63,6 +64,7 @@
     <Folder Include="Custom rounding rule" />
     <Folder Include="Are they same" />
     <Folder Include="Bit Counting" />
+    <Folder Include="Add two numbers" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Are they same\Task.txt" />
