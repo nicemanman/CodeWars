@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Add two numbers\Solution.cs" />
+    <Compile Include="Add two numbers\Test1.cs" />
     <Compile Include="Are they same\AreTheySame.cs" />
     <Compile Include="Are they same\AreTheySameTests.cs" />
     <Compile Include="Bit Counting\CountBits.cs" />
