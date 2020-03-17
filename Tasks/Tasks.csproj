@@ -58,6 +58,7 @@
     <Compile Include="Custom rounding rule\RoundTest.cs" />
     <Compile Include="GameBalls\Game.cs" />
     <Compile Include="GameBalls\GameTests.cs" />
+    <Compile Include="Hourglasses\Solution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ZigZag Conversion\Solution1.cs" />
   </ItemGroup>
@@ -67,6 +68,7 @@
     <Folder Include="Are they same" />
     <Folder Include="Bit Counting" />
     <Folder Include="Add two numbers" />
+    <Folder Include="Hourglasses" />
     <Folder Include="ZigZag Conversion" />
   </ItemGroup>
   <ItemGroup>

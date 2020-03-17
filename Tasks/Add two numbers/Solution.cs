@@ -90,15 +90,15 @@ public class Solution {
         return l3.next;    
     }
 	
-		static void Main(){
-			ListNode l1 = new ListNode(-1,0);
-			ListNode l2 = new ListNode(-2);
-		
-			ListNode l3 = AddTwoNumbers(l1, l2);
-			ListNode l4 = MergeTwoLists(l1, l2);
-			l4.printAll();
-			
-			Console.ReadLine();
-		}
+//		static void Main(){
+//			ListNode l1 = new ListNode(-1,0);
+//			ListNode l2 = new ListNode(-2);
+//		
+//			ListNode l3 = AddTwoNumbers(l1, l2);
+//			ListNode l4 = MergeTwoLists(l1, l2);
+//			l4.printAll();
+//			
+//			Console.ReadLine();
+//		}
 }
 }
